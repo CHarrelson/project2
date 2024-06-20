@@ -15,7 +15,7 @@
     <main>
         <section id="about">
             <h1>About Me</h1>
-            <p>Welcome to my project! I'm excited to share some thing I learned in this class!</p>
+            <p>Welcome to my project! I'm excited to share some things I learned in this class!</p>
             <img src="https://t3.ftcdn.net/jpg/05/64/69/56/360_F_564695693_ch99TIv9V7FOGmLa3gBXzKKsJeGts8EH.jpg" alt="happy strawberry image">
         </section>
         <section id="facts">
